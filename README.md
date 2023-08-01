@@ -3,9 +3,6 @@
 ## Introduction
 
 Welcome to my portfolio! This is a collection of projects I have built using HTML, CSS, and JavaScript. In this repository, you will find examples of my web development skills, design capabilities, and problem-solving approach.
-# Portfolio README
-
-Welcome to my portfolio! This repository showcases the web development projects I have built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
