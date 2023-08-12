@@ -20,6 +20,17 @@ The projects in this portfolio were built using the following technologies:
 
 Feel free to explore each project's code and functionality. You can interact with the web pages and experience the projects firsthand.
 
+## Follow Me
+
+You can find me on various social media platforms. Feel free to connect!
+
+- [Facebook](https://www.facebook.com/sainarendra.nimma/)
+- [Instagram](https://www.instagram.com/sainarendra_01/)
+- [Twitter](https://twitter.com/Sainarendra_01)
+- [LinkedIn](https://www.linkedin.com/in/sainarendra)
+- [GitHub](https://github.com/Sainarendra21)
+
+
 
 
 Thank you for visiting my portfolio! I hope you enjoy exploring my projects and learning more about my web development journey.
